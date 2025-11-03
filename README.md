@@ -7,4 +7,4 @@ This repository contains small tools for CTF and lab-only pentesting work. Each 
 ## Scripts 
 
 ### Enumeration
-#### lxd2root(<a href="Exploits/lxd2root/lxd2root.sh">Exploits/lxd2root/lxd2root.sh</a>)
+### lxd2root(<a href="Exploits/lxd2root/">Exploits/lxd2root/lxd2root.sh</a>)

@@ -13,4 +13,5 @@ This repository contains small tools for CTF and lab-only pentesting work. Each 
 An automated shell script that implements a local privilege-escalation targeting vulnerable LXD setups.
 
 ## • Miscellaneous
-### Autonum (<a href="Miscellaneous/Autonum">Miscellaneous/Autonum/auto-num.py</a>)
+### <a href="Miscellaneous/Autonum">Autonum</a>
+### Linux cleaner r<a href="Miscellaneous/Linux cleaner">Linux cleaner</a>)

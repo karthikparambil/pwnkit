@@ -9,12 +9,12 @@ This repository contains small tools for CTF and lab-only pentesting work. Each 
 
 
 ## • Exploit
-### lxd2root(<a href="Exploits/lxd2root/">Exploits/lxd2root/lxd2root.sh</a>)
+### <a href="Exploits/lxd2root/">lxd2root</a>
 An automated shell script that implements a local privilege-escalation targeting vulnerable LXD setups.
 
 ## • Miscellaneous
 ### <a href="Miscellaneous/Autonum">Autonum</a>
 python script that generates a number sequence within a specified range and writes it to a file
 
-### <a href="Miscellaneous/Linux cleaner">Linux cleaner</a>)
+### <a href="Miscellaneous/Linux cleaner">Linux cleaner</a>
 Script is a Linux junk cleaner that removes temporary files, cache, logs, and unnecessary packages to free up space and improve system performance.

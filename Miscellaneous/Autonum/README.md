@@ -5,11 +5,11 @@
 ## Features
 
 - Generates numbers from a specified start to end range.
-`Start: 1
+````Start: 1
 end: 100
 Enter filename: 100.txt
-File saved as: 100.txt`
-                       
+File saved as: 100.txt
+````         
 - Writes the generated numbers to a user-specified file.
 - Simple and easy to use for creating custom number sequences.
 

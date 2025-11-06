@@ -5,7 +5,8 @@
 ## Features
 
 - Generates numbers from a specified start to end range.
-````Start: 1
+````
+Start: 10
 end: 100
 Enter filename: 100.txt
 File saved as: 100.txt

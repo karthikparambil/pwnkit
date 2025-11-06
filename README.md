@@ -14,4 +14,7 @@ An automated shell script that implements a local privilege-escalation targeting
 
 ## • Miscellaneous
 ### <a href="Miscellaneous/Autonum">Autonum</a>
-### Linux cleaner r<a href="Miscellaneous/Linux cleaner">Linux cleaner</a>)
+python script that generates a number sequence within a specified range and writes it to a file
+
+### <a href="Miscellaneous/Linux cleaner">Linux cleaner</a>)
+Script is a Linux junk cleaner that removes temporary files, cache, logs, and unnecessary packages to free up space and improve system performance.

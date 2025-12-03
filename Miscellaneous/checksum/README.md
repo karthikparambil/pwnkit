@@ -1,4 +1,4 @@
-### checksum overview
+### Checksum overview
 
 The `checksum.sh` script is a simple Bash tool for verifying file integrity by comparing two user-provided hash values. It prompts for input twice and checks if they match, outputting a confirmation or compromise message accordingly. This basic approach can help detect tampering in files or data during cybersecurity tasks like CTF challenges or vulnerability testing.
 

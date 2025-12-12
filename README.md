@@ -7,7 +7,7 @@ This repository contains small tools for CTF and lab-only pentesting work. Each 
 
 ## - Miscellaneous
 ### <a href="Miscellaneous/Autonum">Autonum</a>
-python script that generates a number sequence within a specified range and writes it to a file
+`python script that generates a number sequence within a specified range and writes it to a file`
 
 ### <a href="Miscellaneous/Linux cleaner">Linux cleaner</a>
-Script is a Linux junk cleaner that removes temporary files, cache, logs, and unnecessary packages to free up space and improve system performance.
+`Script is a Linux junk cleaner that removes temporary files, cache, logs, and unnecessary packages to free up space and improve system performance.`
